@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Demo1_hello/Demo1_hello.vcxproj" Id="87d25a19-bf19-42d7-a533-4d96037caf48" />
+  <Project Path="Demo2_nocrt/Demo2_nocrt.vcxproj" Id="4459f670-75ce-4894-8f48-90b0433b48dc" />
+  <Project Path="Demo3_worker/Demo3_worker.vcxproj" Id="cfb95936-e290-4eaf-a309-2df70e501b1a" />
+  <Project Path="Demo4_dbgmon/Demo4_dbgmon.vcxproj" Id="1e8c6441-c5ee-437c-97bd-c8c58b176c49" />
+</Solution>
